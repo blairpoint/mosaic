@@ -1,0 +1,5 @@
+{
+  "name": "Mosaic Assembler",
+  "description": "A creative tool for building mosaics using geometric primitives with grid snapping and auto-arrangement.",
+  "requestFramePermissions": []
+}
